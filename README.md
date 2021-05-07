@@ -1,6 +1,7 @@
 # <center> ** Comando Powercord Clear ** </center>
 ### nota: não sou responsável se você for banido da discord
 ### Este comando permite que você exclua suas mensagens como se você fosse um bot (só verifica suas últimas 50 mensagens, porque não vou perder tempo com isso. Ajuda). 
+### Aproveite :3
 
 ## Demo
 
